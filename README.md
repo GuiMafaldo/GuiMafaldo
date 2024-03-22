@@ -4,7 +4,7 @@
 
 
   ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiMafaldo&show_icons=true&theme=calm_pink)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMafaldo&layout=compact)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMafaldo&layout=compact)](https://github.com/GuiMafaldo/github-readme-stats)
  
 ### Tecnologias
 
