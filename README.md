@@ -1,10 +1,18 @@
-### Olá, Eu sou o Guilherme 🖐️
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mafaldo.gui/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimafaldo/)
+## Olá, Eu sou o Guilherme 🖐️
+
+<br />
+<p align="left">
+  <a href="mailto: 03.09gui.mafaldo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
+  </a>
+</p>
 
 
-  ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiMafaldo&show_icons=true&theme=calm_pink)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMafaldo&layout=compact)](https://github.com/GuiMafaldo/github-readme-stats)
+ <div >
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiMafaldo&show_icons=true&theme=great-gatsby&include_all_commits-true&count_private=true" />
+  <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMafaldo&layout=compact&langs_count=16&theme=great-gatsby" />
+ </div>
  
 ### Tecnologias
 
@@ -20,7 +28,16 @@
   <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
 </div><br />
 
-### Sobré
+
+
+![Snake animation](https://github.com/GuiMfaldo/GuiMafaldo/blob/output/github-contribution-grid-snake.svg)
+
+
+## Sobré
+
+
+
+<br />
 
 👨‍💻 Desenvolvedor Front-end | especializado  em Typescript | ReactJs | Javascript | NodeJs.
 
