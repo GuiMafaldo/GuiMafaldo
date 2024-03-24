@@ -30,8 +30,6 @@
 
 
 
-![Snake animation](https://github.com/GuiMfaldo/GuiMafaldo/blob/output/github-contribution-grid-snake.svg)
-
 
 ## Sobré
 
