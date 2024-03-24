@@ -28,9 +28,6 @@
   <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
 </div><br />
 
-![Snake animation](https://github.com/GuiMafaldo/GuiMafaldo/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GuiMafaldo&repo=GuiMafaldo&theme=react)](https://github.com/GuiMafaldo/GuiMafaldo)
 
 
 
