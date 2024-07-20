@@ -38,26 +38,23 @@
 
 <br />
 
-👨‍💻 Desenvolvedor Front-end | especializado  em Typescript | ReactJs | Javascript | NodeJs.
+👨‍💻 Developer | Front-end, Back-end, Python & WordPress
 
-Olá mundo, sou Guilherme, um entusiasta da tecnologia de 29 anos, residente em São Paulo. Como desenvolvedor Fronte-End, estou dedicado a aprimorar minhas habilidades e conhecimentos para oferecer soluções tecnológicas excepcionais. Atualmente, estou cursando Desenvolvimento Front-end com ReactJs | TypeScript | JavaScript | HTML | CSS e Styled.components...  e continuamente me atualizo por meio de cursos especializados.
+Olá, sou Guilherme, um entusiasta da tecnologia de 29 anos, residente em São Paulo. Tenho uma paixão por criar soluções tecnológicas inovadoras e funcionais. Completei recentemente um curso de Desenvolvimento Front-end, TS | JS | ReactJs. Agora, estou aprimorando minhas habilidades em Desenvolvimento Back-end com Python.
 
-🛠️ Skills Técnicas: Minhas competências técnicas abrangem:
+🛠️ Competências Técnicas:
 
-Programação Orientada a Objetos (OOP): Experiente em desenvolver aplicações eficientes e escaláveis utilizando princípios sólidos de OOP.
-
-ReactJs: Experiência no desenvolvimento front-end com ReactJs, garantindo interfaces dinâmicas e interativas que proporcionam ótima experiência do usuário.
-
-Testes Unitários: Competência em implementar testes unitários rigorosos para garantir a qualidade do código e a estabilidade das aplicações.
-
+Programação Orientada a Objetos (OOP): Experiência em desenvolver aplicações eficientes e escaláveis utilizando princípios sólidos de OOP.
+ReactJs: Desenvolvimento front-end com ReactJs, criando interfaces dinâmicas e interativas para uma excelente experiência do usuário.
+Testes Unitários: Implementação de testes unitários rigorosos para garantir a qualidade e a estabilidade das aplicações.
 Clean Code: Comprometido em manter um código limpo e de fácil compreensão, aderindo às melhores práticas de desenvolvimento.
 
-Se você procura um profissional versátil, sempre disposto a novos desafios e comprometido em criar soluções tecnológicas de alto nível, estou animado para explorar como minhas habilidades podem agregar valor à sua equipe.
+💡 Destaques Adicionais:
 
-Soft Skills: <br />
-Trabalho em equipe. <br />
-Liderança / console.log("ja trabalhei coordenando pessoas"). <br />
-Comunicação com Clientes  e Usuarios.
+Back-end com Python: Atualmente cursando Desenvolvimento Back-end com Python para expandir minhas competências e oferecer soluções completas.
+Versatilidade e Adaptabilidade: Sempre disposto a novos desafios e comprometido em criar soluções tecnológicas de alto nível.
+
+🔗 Vamos Conversar: Estou animado para explorar como minhas habilidades podem agregar valor à sua equipe. Fique à vontade para entrar em contato para uma discussão produtiva.
 
 
 ### Formas de contato: <br />
