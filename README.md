@@ -49,9 +49,9 @@ ReactJs: Desenvolvimento front-end com ReactJs, criando interfaces dinâmicas e 
 Testes Unitários: Implementação de testes unitários rigorosos para garantir a qualidade e a estabilidade das aplicações.
 Clean Code: Comprometido em manter um código limpo e de fácil compreensão, aderindo às melhores práticas de desenvolvimento.
 
-💡 Destaques Adicionais:
-Linguagens:  Javascript  | C#, .Net  |  NodeJs  |  Python. <br />
-Frameworks, libs:  ReactJs  |  NextJs  |  VueJs  |  Entity  |  Express.< br/>
+💡 Destaques Adicionais: <br /> <br />
+Linguagens:  Javascript  | C#, .Net  |  NodeJs  |  Python. <br /> 
+Frameworks, libs:  ReactJs  |  NextJs  |  VueJs  |  Entity  |  Express. <br/>
 Versatilidade e Adaptabilidade: Sempre disposto a novos desafios e comprometido em criar soluções tecnológicas de alto nível.
 
 🔗 Vamos Conversar: Estou animado para explorar como minhas habilidades podem agregar valor à sua equipe. Fique à vontade para entrar em contato para uma discussão produtiva.
