@@ -38,7 +38,7 @@
 
 <br />
 
-👨‍💻 Developer | Front-end, Back-end, Python & WordPress
+👨‍💻 Web Developer 
 
 Olá, sou Guilherme, um entusiasta da tecnologia de 29 anos, residente em São Paulo. Tenho uma paixão por criar soluções tecnológicas inovadoras e funcionais. Completei recentemente um curso de Desenvolvimento Front-end, TS | JS | ReactJs. Agora, estou aprimorando minhas habilidades em Desenvolvimento Back-end com Python.
 
@@ -50,8 +50,8 @@ Testes Unitários: Implementação de testes unitários rigorosos para garantir 
 Clean Code: Comprometido em manter um código limpo e de fácil compreensão, aderindo às melhores práticas de desenvolvimento.
 
 💡 Destaques Adicionais:
-
-Back-end com Python: Atualmente cursando Desenvolvimento Back-end com Python para expandir minhas competências e oferecer soluções completas.
+Linguagens: Javascript | c#, .net | NodeJs | Python.
+Frameworks, libs: ReactJs | NextJs | VueJs | Entity | Express.
 Versatilidade e Adaptabilidade: Sempre disposto a novos desafios e comprometido em criar soluções tecnológicas de alto nível.
 
 🔗 Vamos Conversar: Estou animado para explorar como minhas habilidades podem agregar valor à sua equipe. Fique à vontade para entrar em contato para uma discussão produtiva.
