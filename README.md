@@ -45,7 +45,7 @@
 
 <br />
 
-👨‍💻 Web Developer 
+👨‍💻 Desenvolvedor FullStack
 
 Olá, sou Guilherme, um entusiasta da tecnologia de 29 anos, residente em São Paulo. Tenho uma paixão por criar soluções tecnológicas inovadoras e funcionais. Completei recentemente um curso de Desenvolvimento Front-end, TS | JS | ReactJs. Agora, estou aprimorando minhas habilidades em Desenvolvimento Back-end com Python.
 
